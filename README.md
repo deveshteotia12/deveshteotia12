@@ -1,5 +1,3 @@
-![Header](https://i.ibb.co/4pdCQBW/My-Post-1.png)
-
 
 <h1 align="center">Hi 👋, I'm Devesh Teotia</h1>
 <h3 align="center">A passionate full Stack developer and Programmer from India</h3>
